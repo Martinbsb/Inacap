@@ -1,0 +1,142 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+body{
+    background: rgb(250, 244, 244);
+}
+
+
+
+.contenido{
+    max-width: 100%;
+    margin-top:30px;  
+    background-color: rgb(250, 236, 252);
+}
+.tienda{
+    padding: 20px;
+}
+.panoramas{
+    padding: 20px;
+}
+.ubicacion{
+    padding: 20px;
+    margin-left: 30px;
+}
+.fn{
+    background-color: rgb(115, 45, 180);
+    height: 500px;
+}
+
+.menu .navbar ul li{
+    position:relative;
+    margin-right: 200px;
+    float: right;
+    display: block;
+}
+.llegada{
+    position: relative;
+    float: left;
+    display: flex;
+    padding: 50px;
+}
+.info{
+    position: relative;
+    float: left;
+    display: flex;
+    padding: 30px;
+}
+.menu .navbar ul li a{
+     padding: 50px;
+}   
+.linea1{
+    display: flex;
+    margin:20px;
+}
+.linea2{
+    display: flex;
+    margin:20px;
+}
+.tiendas{
+    display: flex;
+    margin: 20px;
+}
+.mujer{
+    margin: 18px;
+}
+.hombre{
+    margin: 19px;
+}
+.infantil{
+    margin: 18px;
+}
+.decohogar{
+    margin: 18px;
+}
+
+.showinfantil{
+    margin: 18px;
+}
+.land{
+    margin: 18px;
+}
+.cars{
+    margin: 18px;
+}
+.comida{
+    margin: 18px;
+}
+.emprendedores{
+    margin: 18px;
+}
+.pronto{
+    margin: 18px;
+}
+.pronto2{
+    margin: 18px;
+}
+.locomocion{
+    margin-left: 40%;
+    padding: 20px;
+}
+.direccion{
+    padding: 60px;
+}
+.horario{
+    padding: 60px;
+}
+.contacto{
+    padding:60px;
+}
+.valparaiso{
+    padding: 30px;
+    margin-left:70px;
+}
+.viña{
+    padding: 30px;
+    margin-left: 150px;
+}
+.concon{
+    padding: 30px;
+    margin-left: 350px;
+}
+.peñablanca{
+    padding:30px;
+    margin-left: 450px;
+}
+.cont{
+    background-color: darkorange;
+}
+.cont2{
+    background-color: darkorange;
+}
+.cont3{
+    background-color: darkorange;
+}
+.cont4{
+    background-color: darkorange;
+}
